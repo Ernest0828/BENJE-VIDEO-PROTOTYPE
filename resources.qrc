@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/appicon">
+        <file>videos.icns</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>fast-forward-fill.svg</file>
+        <file>file-earmark-fill.svg</file>
+        <file>pause-fill.svg</file>
+        <file>play-fill.svg</file>
+        <file>skip-backward-fill.svg</file>
+        <file>stop-fill.svg</file>
+        <file>volume-mute-fill.svg</file>
+        <file>volume-up-fill.svg</file>
+        <file>list.svg</file>
+        <file>filetype-mov.svg</file>
+        <file>filetype-mp4.svg</file>
+        <file>repeat-1.svg</file>
+        <file>repeat.svg</file>
+        <file>shuffle.svg</file>
+        <file>toggle-off.svg</file>
+        <file>toggle-on.svg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>range_slider.qml</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>slider_style.qss</file>
+    </qresource>
+</RCC>
